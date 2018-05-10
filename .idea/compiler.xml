@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="app_tools" />
+        <module name="crawler_movie" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="app_tools" target="1.6" />
+      <module name="crawler_movie" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
