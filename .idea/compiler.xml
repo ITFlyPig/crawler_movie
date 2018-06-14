@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="app_tools" target="1.6" />
-      <module name="crawler_movie" target="1.6" />
+      <module name="crawler_movie" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>
