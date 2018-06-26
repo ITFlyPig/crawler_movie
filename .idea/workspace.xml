@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bb9e756-79c6-4dc1-bd56-d6c06155f25b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_0_M1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_0_M1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../movie_crawler/target/" />
@@ -16,29 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OkhttpDownloader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpDownloader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1684">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MovieType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/movie/MovieType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BDMoviePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/BDMoviePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="67" column="39" lean-forward="true" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+            <state relative-caret-position="705">
+              <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,32 +26,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MovieConstantInfo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/movie/MovieConstantInfo.java">
+      <file leaf-file-name="IdataMoviesQueue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataMoviesQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="2939" selection-start-line="2939" selection-end-line="2939" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Formatter.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2186">
-              <caret line="2756" column="36" lean-forward="true" selection-start-line="2756" selection-start-column="36" selection-end-line="2756" selection-end-column="36" />
+            <state relative-caret-position="225">
+              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
               <folding>
-                <element signature="e#101735#101736#0" expanded="true" />
-                <element signature="e#101781#101782#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#380#388#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueueCheckTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/QueueCheckTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,8 +54,8 @@
       <file leaf-file-name="BDMovieTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task/BDMovieTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="67" column="30" lean-forward="true" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+            <state relative-caret-position="165">
+              <caret line="21" column="84" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="84" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,32 +63,245 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JsonPath.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.jar!/com/jayway/jsonpath/JsonPath.class">
+      <file leaf-file-name="DoubanSeacherTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/DoubanSeacherTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="238" column="24" selection-start-line="238" selection-start-column="24" selection-end-line="238" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OkhttpUtil.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+            <state relative-caret-position="257">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IdataDoubanMovieResp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataDoubanMovieResp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1695">
+              <caret line="113" column="29" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2560#2561#0" expanded="true" />
+                <element signature="e#2590#2591#0" expanded="true" />
+                <element signature="e#2636#2637#0" expanded="true" />
+                <element signature="e#2674#2675#0" expanded="true" />
+                <element signature="e#2708#2709#0" expanded="true" />
+                <element signature="e#2738#2739#0" expanded="true" />
+                <element signature="e#2784#2785#0" expanded="true" />
+                <element signature="e#2822#2823#0" expanded="true" />
+                <element signature="e#2856#2857#0" expanded="true" />
+                <element signature="e#2886#2887#0" expanded="true" />
+                <element signature="e#2933#2934#0" expanded="true" />
+                <element signature="e#2971#2972#0" expanded="true" />
+                <element signature="e#3007#3008#0" expanded="true" />
+                <element signature="e#3039#3040#0" expanded="true" />
+                <element signature="e#3089#3090#0" expanded="true" />
+                <element signature="e#3131#3132#0" expanded="true" />
+                <element signature="e#3166#3167#0" expanded="true" />
+                <element signature="e#3197#3198#0" expanded="true" />
+                <element signature="e#3245#3246#0" expanded="true" />
+                <element signature="e#3285#3286#0" expanded="true" />
+                <element signature="e#3324#3325#0" expanded="true" />
+                <element signature="e#3351#3352#0" expanded="true" />
+                <element signature="e#3399#3400#0" expanded="true" />
+                <element signature="e#3431#3432#0" expanded="true" />
+                <element signature="e#6842#6843#0" expanded="true" />
+                <element signature="e#6882#6883#0" expanded="true" />
+                <element signature="e#6933#6934#0" expanded="true" />
+                <element signature="e#6983#6984#0" expanded="true" />
+                <element signature="e#7022#7023#0" expanded="true" />
+                <element signature="e#7064#7065#0" expanded="true" />
+                <element signature="e#7119#7120#0" expanded="true" />
+                <element signature="e#7173#7174#0" expanded="true" />
+                <element signature="e#7212#7213#0" expanded="true" />
+                <element signature="e#7254#7255#0" expanded="true" />
+                <element signature="e#7309#7310#0" expanded="true" />
+                <element signature="e#7363#7364#0" expanded="true" />
+                <element signature="e#7402#7403#0" expanded="true" />
+                <element signature="e#7441#7442#0" expanded="true" />
+                <element signature="e#7493#7494#0" expanded="true" />
+                <element signature="e#7541#7542#0" expanded="true" />
+                <element signature="e#7582#7583#0" expanded="true" />
+                <element signature="e#7626#7627#0" expanded="true" />
+                <element signature="e#7685#7686#0" expanded="true" />
+                <element signature="e#7743#7744#0" expanded="true" />
+                <element signature="e#7783#7784#0" expanded="true" />
+                <element signature="e#7823#7824#0" expanded="true" />
+                <element signature="e#7877#7878#0" expanded="true" />
+                <element signature="e#7927#7928#0" expanded="true" />
+                <element signature="e#7966#7967#0" expanded="true" />
+                <element signature="e#8005#8006#0" expanded="true" />
+                <element signature="e#8057#8058#0" expanded="true" />
+                <element signature="e#8105#8106#0" expanded="true" />
+                <element signature="e#8147#8148#0" expanded="true" />
+                <element signature="e#8189#8190#0" expanded="true" />
+                <element signature="e#8247#8248#0" expanded="true" />
+                <element signature="e#8301#8302#0" expanded="true" />
+                <element signature="e#8338#8339#0" expanded="true" />
+                <element signature="e#8375#8376#0" expanded="true" />
+                <element signature="e#8423#8424#0" expanded="true" />
+                <element signature="e#8467#8468#0" expanded="true" />
+                <element signature="e#8511#8512#0" expanded="true" />
+                <element signature="e#8555#8556#0" expanded="true" />
+                <element signature="e#8617#8618#0" expanded="true" />
+                <element signature="e#8675#8676#0" expanded="true" />
+                <element signature="e#8714#8715#0" expanded="true" />
+                <element signature="e#8756#8757#0" expanded="true" />
+                <element signature="e#8811#8812#0" expanded="true" />
+                <element signature="e#8865#8866#0" expanded="true" />
+                <element signature="e#8899#8900#0" expanded="true" />
+                <element signature="e#8933#8934#0" expanded="true" />
+                <element signature="e#8975#8976#0" expanded="true" />
+                <element signature="e#9013#9014#0" expanded="true" />
+                <element signature="e#9049#9050#0" expanded="true" />
+                <element signature="e#9085#9086#0" expanded="true" />
+                <element signature="e#9131#9132#0" expanded="true" />
+                <element signature="e#9173#9174#0" expanded="true" />
+                <element signature="e#9218#9219#0" expanded="true" />
+                <element signature="e#9263#9264#0" expanded="true" />
+                <element signature="e#9327#9328#0" expanded="true" />
+                <element signature="e#9387#9388#0" expanded="true" />
+                <element signature="e#9420#9421#0" expanded="true" />
+                <element signature="e#9453#9454#0" expanded="true" />
+                <element signature="e#9493#9494#0" expanded="true" />
+                <element signature="e#9529#9530#0" expanded="true" />
+                <element signature="e#9568#9569#0" expanded="true" />
+                <element signature="e#9610#9611#0" expanded="true" />
+                <element signature="e#9665#9666#0" expanded="true" />
+                <element signature="e#9719#9720#0" expanded="true" />
+                <element signature="e#9759#9760#0" expanded="true" />
+                <element signature="e#9802#9803#0" expanded="true" />
+                <element signature="e#9859#9860#0" expanded="true" />
+                <element signature="e#9915#9916#0" expanded="true" />
+                <element signature="e#9961#9962#0" expanded="true" />
+                <element signature="e#10001#10002#0" expanded="true" />
+                <element signature="e#10061#10062#0" expanded="true" />
+                <element signature="e#10111#10112#0" expanded="true" />
+                <element signature="e#10152#10153#0" expanded="true" />
+                <element signature="e#10187#10188#0" expanded="true" />
+                <element signature="e#10237#10238#0" expanded="true" />
+                <element signature="e#10277#10278#0" expanded="true" />
+                <element signature="e#10330#10331#0" expanded="true" />
+                <element signature="e#10370#10371#0" expanded="true" />
+                <element signature="e#10437#10438#0" expanded="true" />
+                <element signature="e#10487#10488#0" expanded="true" />
+                <element signature="e#10534#10535#0" expanded="true" />
+                <element signature="e#10571#10572#0" expanded="true" />
+                <element signature="e#10629#10630#0" expanded="true" />
+                <element signature="e#10673#10674#0" expanded="true" />
+                <element signature="e#10716#10717#0" expanded="true" />
+                <element signature="e#10753#10754#0" expanded="true" />
+                <element signature="e#10807#10808#0" expanded="true" />
+                <element signature="e#10851#10852#0" expanded="true" />
+                <element signature="e#10897#10898#0" expanded="true" />
+                <element signature="e#10937#10938#0" expanded="true" />
+                <element signature="e#10997#10998#0" expanded="true" />
+                <element signature="e#11047#11048#0" expanded="true" />
+                <element signature="e#11096#11097#0" expanded="true" />
+                <element signature="e#11139#11140#0" expanded="true" />
+                <element signature="e#11205#11206#0" expanded="true" />
+                <element signature="e#11261#11262#0" expanded="true" />
+                <element signature="e#11310#11311#0" expanded="true" />
+                <element signature="e#11348#11349#0" expanded="true" />
+                <element signature="e#11409#11410#0" expanded="true" />
+                <element signature="e#11455#11456#0" expanded="true" />
+                <element signature="e#11501#11502#0" expanded="true" />
+                <element signature="e#11541#11542#0" expanded="true" />
+                <element signature="e#11601#11602#0" expanded="true" />
+                <element signature="e#11651#11652#0" expanded="true" />
+                <element signature="e#11697#11698#0" expanded="true" />
+                <element signature="e#11737#11738#0" expanded="true" />
+                <element signature="e#11797#11798#0" expanded="true" />
+                <element signature="e#11847#11848#0" expanded="true" />
+                <element signature="e#11896#11897#0" expanded="true" />
+                <element signature="e#11939#11940#0" expanded="true" />
+                <element signature="e#12005#12006#0" expanded="true" />
+                <element signature="e#12061#12062#0" expanded="true" />
+                <element signature="e#12440#12441#0" expanded="true" />
+                <element signature="e#12483#12484#0" expanded="true" />
+                <element signature="e#12531#12532#0" expanded="true" />
+                <element signature="e#12579#12580#0" expanded="true" />
+                <element signature="e#12616#12617#0" expanded="true" />
+                <element signature="e#12657#12658#0" expanded="true" />
+                <element signature="e#12701#12702#0" expanded="true" />
+                <element signature="e#12745#12746#0" expanded="true" />
+                <element signature="e#12787#12788#0" expanded="true" />
+                <element signature="e#12833#12834#0" expanded="true" />
+                <element signature="e#12887#12888#0" expanded="true" />
+                <element signature="e#12941#12942#0" expanded="true" />
+                <element signature="e#12980#12981#0" expanded="true" />
+                <element signature="e#13023#13024#0" expanded="true" />
+                <element signature="e#13071#13072#0" expanded="true" />
+                <element signature="e#13119#13120#0" expanded="true" />
+                <element signature="e#13438#13439#0" expanded="true" />
+                <element signature="e#13481#13482#0" expanded="true" />
+                <element signature="e#13529#13530#0" expanded="true" />
+                <element signature="e#13577#13578#0" expanded="true" />
+                <element signature="e#13614#13615#0" expanded="true" />
+                <element signature="e#13655#13656#0" expanded="true" />
+                <element signature="e#13699#13700#0" expanded="true" />
+                <element signature="e#13743#13744#0" expanded="true" />
+                <element signature="e#13785#13786#0" expanded="true" />
+                <element signature="e#13831#13832#0" expanded="true" />
+                <element signature="e#13885#13886#0" expanded="true" />
+                <element signature="e#13939#13940#0" expanded="true" />
+                <element signature="e#14250#14251#0" expanded="true" />
+                <element signature="e#14293#14294#0" expanded="true" />
+                <element signature="e#14341#14342#0" expanded="true" />
+                <element signature="e#14389#14390#0" expanded="true" />
+                <element signature="e#14426#14427#0" expanded="true" />
+                <element signature="e#14467#14468#0" expanded="true" />
+                <element signature="e#14511#14512#0" expanded="true" />
+                <element signature="e#14555#14556#0" expanded="true" />
+                <element signature="e#14597#14598#0" expanded="true" />
+                <element signature="e#14643#14644#0" expanded="true" />
+                <element signature="e#14697#14698#0" expanded="true" />
+                <element signature="e#14751#14752#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/ArrayUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/base/MovieBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+              <folding>
+                <element signature="e#1651#1652#0" expanded="true" />
+                <element signature="e#1695#1696#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActorBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/base/ActorBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IdataUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -132,14 +319,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>下载线程开始休眠</find>
       <find>HttpLogger</find>
       <find>503</find>
       <find>110.73.42.44:8123</find>
       <find>开始检查IP是否有效</find>
       <find>GatherIpsRunnable</find>
       <find>gatherIpsRunnable</find>
-      <find>okHttpClient</find>
       <find>110.73.42.44</find>
       <find>timeOut</find>
       <find>setTimeOut</find>
@@ -162,6 +347,8 @@
       <find>checkIP</find>
       <find>curIP</find>
       <find>添加到爬虫</find>
+      <find>okHttpClient</find>
+      <find>allIPsQeueu</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -176,14 +363,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/UrlUtils.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/Constant.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/TimeUtil.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/LogUtils.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/service/itf/IDoubanMovie.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/mapper/MovieMapper.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/resources/mybatis/mapper/movieBeanMapper.xml" />
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/task/INextUrl.java" />
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/task/TaskCallBack.java" />
         <option value="$PROJECT_DIR$/../movie_crawler/target/classes/log/get_ip_log.txt" />
@@ -223,10 +402,18 @@
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java" />
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java" />
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/movie/MovieType.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/BDMoviePage.java" />
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/movie/MovieConstantInfo.java" />
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task/BDMovieTask.java" />
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpUtil.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/MoviesQueue.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/DoubanQueueCheckTask.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataMoviesQueue.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataUtil.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/BDMoviePage.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/QueueCheckTask.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/DoubanSeacherTask.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/ArrayUtils.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataDoubanMovieResp.java" />
       </list>
     </option>
   </component>
@@ -259,7 +446,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -289,7 +476,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -374,7 +560,7 @@
               <item name="wangyuelin" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="downloader" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="crawler_movie" type="b2602c69:ProjectViewProjectNode" />
@@ -385,7 +571,7 @@
               <item name="wangyuelin" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="latest" type="462c0819:PsiDirectoryNode" />
+              <item name="douban" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="crawler_movie" type="b2602c69:ProjectViewProjectNode" />
@@ -396,7 +582,8 @@
               <item name="wangyuelin" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="movie" type="462c0819:PsiDirectoryNode" />
+              <item name="douban" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="crawler_movie" type="b2602c69:ProjectViewProjectNode" />
@@ -407,7 +594,17 @@
               <item name="wangyuelin" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="idata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler_movie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyuelin" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="proxypool" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="crawler_movie" type="b2602c69:ProjectViewProjectNode" />
@@ -472,6 +669,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -481,7 +679,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="User&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;B&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/latest/baidu/BDMoviePage.java&#10;Movie&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/MovieType.java&#10;Movieta&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.MovieTag&#10;TextUti&#9;PSI&#9;JAVA://com.wangyuelin.app.util.MyTextUtil&#10;moviety&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.page.MovieType&#10;Sp&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;ProxyPoolUtil&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/ProxyPoolUtil.java&#10;Spider&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;Spi&#9;FILE&#9;jar:///Users/wangyuelin/.m2/repository/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/Spider.java&#10;Downloa&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.downloader.OkhttpDownloader&#10;Dow&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpDownloader.java&#10;Spide&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderCraw.java&#10;Pro&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/ProxyPool.java&#10;Douba&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanMediaChoosePage.java&#10;Use&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;Douban&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanChooseMoviePage.java&#10;Log&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/LogUtils.java&#10;Spid&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderUtil.java&#10;dow&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/MyOkhttp3Downloader.java&#10;Fileu&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/FileUtil.java&#10;Filena&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.FileNames&#10;Moviepr&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;down&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/MyOkhttp3Downloader.java&#10;File&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/FileUtil.java&#10;Cons&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/Constant.java&#10;Userc&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.dylol.controller.UserController&#10;Down&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpDownloader.java&#10;Mov&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;SP&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderUtil.java&#10;Movi&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;FIle&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.FileNames&#10;Co&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/Constant.java&#10;Us&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;Zuida&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/zuida/ZuidaDetailPage.java&#10;Myt&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyTextUtil.java&#10;MovieProcessor&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;con&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/appserver/controller/MovieController.java&#10;Pageut&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.page.PageUtil&#10;Table&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dy2018/TableUtil.java&#10;Myu&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyTextUtil.java&#10;PageU&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/PageUtil.java&#10;Linkda&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java&#10;Link&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java&#10;Home&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/HomePage.java&#10;Lind&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java&#10;Tableda&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/TableDao.java&#10;Movieser&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/service/RankMovieService.java&#10;Movieda&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/MovieDao.java&#10;Pa&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/PageUtil.java" />
+    <property name="SearchEverywhereHistoryKey" value="Ok&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpUtil.java&#10;Myth&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java&#10;User&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;B&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/latest/baidu/BDMoviePage.java&#10;Movie&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/MovieType.java&#10;Movieta&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.MovieTag&#10;TextUti&#9;PSI&#9;JAVA://com.wangyuelin.app.util.MyTextUtil&#10;moviety&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.page.MovieType&#10;Sp&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;ProxyPoolUtil&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/ProxyPoolUtil.java&#10;Spider&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;Spi&#9;FILE&#9;jar:///Users/wangyuelin/.m2/repository/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/Spider.java&#10;Downloa&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.downloader.OkhttpDownloader&#10;Dow&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpDownloader.java&#10;Spide&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderCraw.java&#10;Pro&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/ProxyPool.java&#10;Douba&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanMediaChoosePage.java&#10;Use&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;Douban&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanChooseMoviePage.java&#10;Log&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/LogUtils.java&#10;Spid&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderUtil.java&#10;dow&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/MyOkhttp3Downloader.java&#10;Fileu&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/FileUtil.java&#10;Filena&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.FileNames&#10;Moviepr&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;down&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/MyOkhttp3Downloader.java&#10;File&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/FileUtil.java&#10;Cons&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/Constant.java&#10;Userc&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.dylol.controller.UserController&#10;Down&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpDownloader.java&#10;Mov&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;SP&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderUtil.java&#10;Movi&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;FIle&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.FileNames&#10;Co&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/Constant.java&#10;Us&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;Zuida&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/zuida/ZuidaDetailPage.java&#10;Myt&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyTextUtil.java&#10;MovieProcessor&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;con&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/appserver/controller/MovieController.java&#10;Pageut&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.page.PageUtil&#10;Table&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dy2018/TableUtil.java&#10;Myu&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyTextUtil.java&#10;PageU&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/PageUtil.java&#10;Linkda&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java&#10;Link&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java&#10;Home&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/HomePage.java&#10;Lind&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java&#10;Tableda&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/TableDao.java&#10;Movieser&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/service/RankMovieService.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -491,7 +689,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -747,7 +945,9 @@
       <workItem from="1529651903912" duration="598000" />
       <workItem from="1529911833279" duration="3171000" />
       <workItem from="1529933963137" duration="108000" />
-      <workItem from="1529994980599" duration="13584000" />
+      <workItem from="1529994980599" duration="14123000" />
+      <workItem from="1530011561973" duration="1379000" />
+      <workItem from="1530014420941" duration="3183000" />
     </task>
     <servers />
   </component>
@@ -784,7 +984,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="363641000" />
+    <option name="totallyTimeSpent" value="368742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="0" />
@@ -802,26 +1002,26 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3807947" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.38410595" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21688741" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6274834" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3294702" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3294702" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.37913907" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19039735" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24394184" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.38410595" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32615894" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32615894" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="2" />
@@ -1045,73 +1245,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/hdbee/BeePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/MovieHousePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanMediaChoosePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="188" column="22" selection-start-line="188" selection-start-column="22" selection-end-line="188" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="227" column="18" selection-start-line="227" selection-start-column="18" selection-end-line="227" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/zuida/ZuidaSearchPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/task/GetTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/task/TaskUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/target/classes/log/download_page_log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1012" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanChooseMoviePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -1140,23 +1273,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/proxypool/ProxyPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="96" column="23" lean-forward="true" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/task/CheckContentEmptyMovie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="59" column="35" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1185,13 +1305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/base/MovieBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4140">
-          <caret line="362" selection-start-line="362" selection-end-line="362" />
         </state>
       </provider>
     </entry>
@@ -1237,13 +1350,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/test.java" />
     <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/dy2018/DyttDeailPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1262,40 +1369,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.10.0/okhttp-3.10.0.jar!/okhttp3/Response.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="111" column="23" selection-start-line="111" selection-start-column="11" selection-end-line="111" selection-end-column="23" />
-          <folding>
-            <element signature="e#2980#2981#0" expanded="true" />
-            <element signature="e#3012#3013#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task/BDMovieDownloadAndParseTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task/BDMovieDownloadAndParseTask.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/jndi/toolkit/url/UrlUtil.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-175">
@@ -1307,10 +1392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#503#519#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1352,16 +1433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/BaiduMoviePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/movie/MovieType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -1369,55 +1440,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/BDMoviePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="67" column="39" lean-forward="true" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="42810">
           <caret line="2939" selection-start-line="2939" selection-end-line="2939" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2186">
-          <caret line="2756" column="36" lean-forward="true" selection-start-line="2756" selection-start-column="36" selection-end-line="2756" selection-end-column="36" />
-          <folding>
-            <element signature="e#101735#101736#0" expanded="true" />
-            <element signature="e#101781#101782#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="40155">
+          <caret line="2756" column="36" selection-start-line="2756" selection-start-column="36" selection-end-line="2756" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/movie/MovieConstantInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="495">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.jar!/com/jayway/jsonpath/JsonPath.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
+        <state relative-caret-position="3195">
           <caret line="238" column="24" selection-start-line="238" selection-start-column="24" selection-end-line="238" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task/BDMovieTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="67" column="30" lean-forward="true" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1430,15 +1477,306 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpDownloader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1684">
+        <state relative-caret-position="75">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        <state relative-caret-position="300">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/test.java" />
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/proxypool/ProxyPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="197" column="36" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/BaiduMoviePage.java" />
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/BDMoviePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task/BDMovieTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="21" column="84" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/base/ActorBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/base/MovieBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+          <folding>
+            <element signature="e#1651#1652#0" expanded="true" />
+            <element signature="e#1695#1696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/QueueCheckTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataMoviesQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#380#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataDoubanMovieResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" column="29" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2560#2561#0" expanded="true" />
+            <element signature="e#2590#2591#0" expanded="true" />
+            <element signature="e#2636#2637#0" expanded="true" />
+            <element signature="e#2674#2675#0" expanded="true" />
+            <element signature="e#2708#2709#0" expanded="true" />
+            <element signature="e#2738#2739#0" expanded="true" />
+            <element signature="e#2784#2785#0" expanded="true" />
+            <element signature="e#2822#2823#0" expanded="true" />
+            <element signature="e#2856#2857#0" expanded="true" />
+            <element signature="e#2886#2887#0" expanded="true" />
+            <element signature="e#2933#2934#0" expanded="true" />
+            <element signature="e#2971#2972#0" expanded="true" />
+            <element signature="e#3007#3008#0" expanded="true" />
+            <element signature="e#3039#3040#0" expanded="true" />
+            <element signature="e#3089#3090#0" expanded="true" />
+            <element signature="e#3131#3132#0" expanded="true" />
+            <element signature="e#3166#3167#0" expanded="true" />
+            <element signature="e#3197#3198#0" expanded="true" />
+            <element signature="e#3245#3246#0" expanded="true" />
+            <element signature="e#3285#3286#0" expanded="true" />
+            <element signature="e#3324#3325#0" expanded="true" />
+            <element signature="e#3351#3352#0" expanded="true" />
+            <element signature="e#3399#3400#0" expanded="true" />
+            <element signature="e#3431#3432#0" expanded="true" />
+            <element signature="e#6842#6843#0" expanded="true" />
+            <element signature="e#6882#6883#0" expanded="true" />
+            <element signature="e#6933#6934#0" expanded="true" />
+            <element signature="e#6983#6984#0" expanded="true" />
+            <element signature="e#7022#7023#0" expanded="true" />
+            <element signature="e#7064#7065#0" expanded="true" />
+            <element signature="e#7119#7120#0" expanded="true" />
+            <element signature="e#7173#7174#0" expanded="true" />
+            <element signature="e#7212#7213#0" expanded="true" />
+            <element signature="e#7254#7255#0" expanded="true" />
+            <element signature="e#7309#7310#0" expanded="true" />
+            <element signature="e#7363#7364#0" expanded="true" />
+            <element signature="e#7402#7403#0" expanded="true" />
+            <element signature="e#7441#7442#0" expanded="true" />
+            <element signature="e#7493#7494#0" expanded="true" />
+            <element signature="e#7541#7542#0" expanded="true" />
+            <element signature="e#7582#7583#0" expanded="true" />
+            <element signature="e#7626#7627#0" expanded="true" />
+            <element signature="e#7685#7686#0" expanded="true" />
+            <element signature="e#7743#7744#0" expanded="true" />
+            <element signature="e#7783#7784#0" expanded="true" />
+            <element signature="e#7823#7824#0" expanded="true" />
+            <element signature="e#7877#7878#0" expanded="true" />
+            <element signature="e#7927#7928#0" expanded="true" />
+            <element signature="e#7966#7967#0" expanded="true" />
+            <element signature="e#8005#8006#0" expanded="true" />
+            <element signature="e#8057#8058#0" expanded="true" />
+            <element signature="e#8105#8106#0" expanded="true" />
+            <element signature="e#8147#8148#0" expanded="true" />
+            <element signature="e#8189#8190#0" expanded="true" />
+            <element signature="e#8247#8248#0" expanded="true" />
+            <element signature="e#8301#8302#0" expanded="true" />
+            <element signature="e#8338#8339#0" expanded="true" />
+            <element signature="e#8375#8376#0" expanded="true" />
+            <element signature="e#8423#8424#0" expanded="true" />
+            <element signature="e#8467#8468#0" expanded="true" />
+            <element signature="e#8511#8512#0" expanded="true" />
+            <element signature="e#8555#8556#0" expanded="true" />
+            <element signature="e#8617#8618#0" expanded="true" />
+            <element signature="e#8675#8676#0" expanded="true" />
+            <element signature="e#8714#8715#0" expanded="true" />
+            <element signature="e#8756#8757#0" expanded="true" />
+            <element signature="e#8811#8812#0" expanded="true" />
+            <element signature="e#8865#8866#0" expanded="true" />
+            <element signature="e#8899#8900#0" expanded="true" />
+            <element signature="e#8933#8934#0" expanded="true" />
+            <element signature="e#8975#8976#0" expanded="true" />
+            <element signature="e#9013#9014#0" expanded="true" />
+            <element signature="e#9049#9050#0" expanded="true" />
+            <element signature="e#9085#9086#0" expanded="true" />
+            <element signature="e#9131#9132#0" expanded="true" />
+            <element signature="e#9173#9174#0" expanded="true" />
+            <element signature="e#9218#9219#0" expanded="true" />
+            <element signature="e#9263#9264#0" expanded="true" />
+            <element signature="e#9327#9328#0" expanded="true" />
+            <element signature="e#9387#9388#0" expanded="true" />
+            <element signature="e#9420#9421#0" expanded="true" />
+            <element signature="e#9453#9454#0" expanded="true" />
+            <element signature="e#9493#9494#0" expanded="true" />
+            <element signature="e#9529#9530#0" expanded="true" />
+            <element signature="e#9568#9569#0" expanded="true" />
+            <element signature="e#9610#9611#0" expanded="true" />
+            <element signature="e#9665#9666#0" expanded="true" />
+            <element signature="e#9719#9720#0" expanded="true" />
+            <element signature="e#9759#9760#0" expanded="true" />
+            <element signature="e#9802#9803#0" expanded="true" />
+            <element signature="e#9859#9860#0" expanded="true" />
+            <element signature="e#9915#9916#0" expanded="true" />
+            <element signature="e#9961#9962#0" expanded="true" />
+            <element signature="e#10001#10002#0" expanded="true" />
+            <element signature="e#10061#10062#0" expanded="true" />
+            <element signature="e#10111#10112#0" expanded="true" />
+            <element signature="e#10152#10153#0" expanded="true" />
+            <element signature="e#10187#10188#0" expanded="true" />
+            <element signature="e#10237#10238#0" expanded="true" />
+            <element signature="e#10277#10278#0" expanded="true" />
+            <element signature="e#10330#10331#0" expanded="true" />
+            <element signature="e#10370#10371#0" expanded="true" />
+            <element signature="e#10437#10438#0" expanded="true" />
+            <element signature="e#10487#10488#0" expanded="true" />
+            <element signature="e#10534#10535#0" expanded="true" />
+            <element signature="e#10571#10572#0" expanded="true" />
+            <element signature="e#10629#10630#0" expanded="true" />
+            <element signature="e#10673#10674#0" expanded="true" />
+            <element signature="e#10716#10717#0" expanded="true" />
+            <element signature="e#10753#10754#0" expanded="true" />
+            <element signature="e#10807#10808#0" expanded="true" />
+            <element signature="e#10851#10852#0" expanded="true" />
+            <element signature="e#10897#10898#0" expanded="true" />
+            <element signature="e#10937#10938#0" expanded="true" />
+            <element signature="e#10997#10998#0" expanded="true" />
+            <element signature="e#11047#11048#0" expanded="true" />
+            <element signature="e#11096#11097#0" expanded="true" />
+            <element signature="e#11139#11140#0" expanded="true" />
+            <element signature="e#11205#11206#0" expanded="true" />
+            <element signature="e#11261#11262#0" expanded="true" />
+            <element signature="e#11310#11311#0" expanded="true" />
+            <element signature="e#11348#11349#0" expanded="true" />
+            <element signature="e#11409#11410#0" expanded="true" />
+            <element signature="e#11455#11456#0" expanded="true" />
+            <element signature="e#11501#11502#0" expanded="true" />
+            <element signature="e#11541#11542#0" expanded="true" />
+            <element signature="e#11601#11602#0" expanded="true" />
+            <element signature="e#11651#11652#0" expanded="true" />
+            <element signature="e#11697#11698#0" expanded="true" />
+            <element signature="e#11737#11738#0" expanded="true" />
+            <element signature="e#11797#11798#0" expanded="true" />
+            <element signature="e#11847#11848#0" expanded="true" />
+            <element signature="e#11896#11897#0" expanded="true" />
+            <element signature="e#11939#11940#0" expanded="true" />
+            <element signature="e#12005#12006#0" expanded="true" />
+            <element signature="e#12061#12062#0" expanded="true" />
+            <element signature="e#12440#12441#0" expanded="true" />
+            <element signature="e#12483#12484#0" expanded="true" />
+            <element signature="e#12531#12532#0" expanded="true" />
+            <element signature="e#12579#12580#0" expanded="true" />
+            <element signature="e#12616#12617#0" expanded="true" />
+            <element signature="e#12657#12658#0" expanded="true" />
+            <element signature="e#12701#12702#0" expanded="true" />
+            <element signature="e#12745#12746#0" expanded="true" />
+            <element signature="e#12787#12788#0" expanded="true" />
+            <element signature="e#12833#12834#0" expanded="true" />
+            <element signature="e#12887#12888#0" expanded="true" />
+            <element signature="e#12941#12942#0" expanded="true" />
+            <element signature="e#12980#12981#0" expanded="true" />
+            <element signature="e#13023#13024#0" expanded="true" />
+            <element signature="e#13071#13072#0" expanded="true" />
+            <element signature="e#13119#13120#0" expanded="true" />
+            <element signature="e#13438#13439#0" expanded="true" />
+            <element signature="e#13481#13482#0" expanded="true" />
+            <element signature="e#13529#13530#0" expanded="true" />
+            <element signature="e#13577#13578#0" expanded="true" />
+            <element signature="e#13614#13615#0" expanded="true" />
+            <element signature="e#13655#13656#0" expanded="true" />
+            <element signature="e#13699#13700#0" expanded="true" />
+            <element signature="e#13743#13744#0" expanded="true" />
+            <element signature="e#13785#13786#0" expanded="true" />
+            <element signature="e#13831#13832#0" expanded="true" />
+            <element signature="e#13885#13886#0" expanded="true" />
+            <element signature="e#13939#13940#0" expanded="true" />
+            <element signature="e#14250#14251#0" expanded="true" />
+            <element signature="e#14293#14294#0" expanded="true" />
+            <element signature="e#14341#14342#0" expanded="true" />
+            <element signature="e#14389#14390#0" expanded="true" />
+            <element signature="e#14426#14427#0" expanded="true" />
+            <element signature="e#14467#14468#0" expanded="true" />
+            <element signature="e#14511#14512#0" expanded="true" />
+            <element signature="e#14555#14556#0" expanded="true" />
+            <element signature="e#14597#14598#0" expanded="true" />
+            <element signature="e#14643#14644#0" expanded="true" />
+            <element signature="e#14697#14698#0" expanded="true" />
+            <element signature="e#14751#14752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/DoubanSeacherTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
