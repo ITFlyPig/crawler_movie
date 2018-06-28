@@ -15,8 +15,8 @@
       <file leaf-file-name="BDMoviePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/BDMoviePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="62" column="43" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="43" />
+            <state relative-caret-position="103">
+              <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,11 +24,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskUtils.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TaskUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/task/TaskUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+            <state relative-caret-position="268">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoubanSeacherTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/DoubanSeacherTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-547">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#885#886#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -36,8 +54,8 @@
       <file leaf-file-name="QueueCheckTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/QueueCheckTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="253">
+              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,8 +66,8 @@
       <file leaf-file-name="DoubanMediaChoosePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanMediaChoosePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+            <state relative-caret-position="194">
+              <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
             </state>
           </provider>
         </entry>
@@ -57,26 +75,17 @@
       <file leaf-file-name="MovieConstantInfo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/movie/MovieConstantInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            <state relative-caret-position="212">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyThreadPool.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MyThreadPool.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Executors.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="88" column="29" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
+            <state relative-caret-position="210">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -84,8 +93,8 @@
       <file leaf-file-name="BDMovieTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task/BDMovieTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1656">
-              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+            <state relative-caret-position="95">
+              <caret line="114" column="5" lean-forward="true" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#918#919#0" expanded="true" />
@@ -110,8 +119,8 @@
       <file leaf-file-name="IdataUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="134">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,7 +141,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>110.73.42.44:8123</find>
       <find>开始检查IP是否有效</find>
       <find>GatherIpsRunnable</find>
       <find>gatherIpsRunnable</find>
@@ -162,6 +170,7 @@
       <find>allIPsQeueu</find>
       <find>update</find>
       <find>添加到待抓取队列</find>
+      <find>MyThreadPool.submit</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -220,13 +229,13 @@
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/db/StaticDBHandle.java" />
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java" />
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/BDMoviePage.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/movie/MovieConstantInfo.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task/BDMovieTask.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanMediaChoosePage.java" />
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataUtil.java" />
-        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/QueueCheckTask.java" />
         <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/task/TaskUtils.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/QueueCheckTask.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanMediaChoosePage.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/movie/MovieConstantInfo.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task/BDMovieTask.java" />
+        <option value="$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java" />
       </list>
     </option>
   </component>
@@ -459,7 +468,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="User&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;My&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java&#10;Us&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;Sp&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;Cr&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;Spi&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;Douban&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/service/DoubanMovieService.java&#10;Ok&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpUtil.java&#10;Myth&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java&#10;B&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/latest/baidu/BDMoviePage.java&#10;Movie&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/MovieType.java&#10;Movieta&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.MovieTag&#10;TextUti&#9;PSI&#9;JAVA://com.wangyuelin.app.util.MyTextUtil&#10;moviety&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.page.MovieType&#10;ProxyPoolUtil&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/ProxyPoolUtil.java&#10;Spider&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;Downloa&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.downloader.OkhttpDownloader&#10;Dow&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpDownloader.java&#10;Spide&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderCraw.java&#10;Pro&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/ProxyPool.java&#10;Douba&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanMediaChoosePage.java&#10;Use&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;Log&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/LogUtils.java&#10;Spid&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderUtil.java&#10;dow&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/MyOkhttp3Downloader.java&#10;Fileu&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/FileUtil.java&#10;Filena&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.FileNames&#10;Moviepr&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;down&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/MyOkhttp3Downloader.java&#10;File&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/FileUtil.java&#10;Cons&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/Constant.java&#10;Userc&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.dylol.controller.UserController&#10;Down&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpDownloader.java&#10;Mov&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;SP&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderUtil.java&#10;Movi&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;FIle&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.FileNames&#10;Co&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/Constant.java&#10;Zuida&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/zuida/ZuidaDetailPage.java&#10;Myt&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyTextUtil.java&#10;MovieProcessor&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;con&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/appserver/controller/MovieController.java&#10;Pageut&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.page.PageUtil&#10;Table&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dy2018/TableUtil.java&#10;Myu&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyTextUtil.java&#10;PageU&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/PageUtil.java&#10;Linkda&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java&#10;Link&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java&#10;Home&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/HomePage.java&#10;Lind&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java" />
+    <property name="SearchEverywhereHistoryKey" value="My&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java&#10;User&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;Us&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;Sp&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;Cr&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;Spi&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;Douban&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/service/DoubanMovieService.java&#10;Ok&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpUtil.java&#10;Myth&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java&#10;B&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/latest/baidu/BDMoviePage.java&#10;Movie&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/MovieType.java&#10;Movieta&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.MovieTag&#10;TextUti&#9;PSI&#9;JAVA://com.wangyuelin.app.util.MyTextUtil&#10;moviety&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.page.MovieType&#10;ProxyPoolUtil&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/ProxyPoolUtil.java&#10;Spider&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/SpiderCraw.java&#10;Downloa&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.downloader.OkhttpDownloader&#10;Dow&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpDownloader.java&#10;Spide&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderCraw.java&#10;Pro&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/ProxyPool.java&#10;Douba&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanMediaChoosePage.java&#10;Use&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java&#10;Log&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/LogUtils.java&#10;Spid&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderUtil.java&#10;dow&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/MyOkhttp3Downloader.java&#10;Fileu&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/FileUtil.java&#10;Filena&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.FileNames&#10;Moviepr&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;down&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/proxypool/MyOkhttp3Downloader.java&#10;File&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/FileUtil.java&#10;Cons&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/Constant.java&#10;Userc&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.dylol.controller.UserController&#10;Down&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/downloader/OkhttpDownloader.java&#10;Mov&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;SP&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/SpiderUtil.java&#10;Movi&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;FIle&#9;PSI&#9;JAVA://com.wangyuelin.app.util.Constant.FileNames&#10;Co&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/Constant.java&#10;Zuida&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/zuida/ZuidaDetailPage.java&#10;Myt&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyTextUtil.java&#10;MovieProcessor&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/MovieProcessor.java&#10;con&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/appserver/controller/MovieController.java&#10;Pageut&#9;PSI&#9;JAVA://com.wangyuelin.app.crawler.page.PageUtil&#10;Table&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/dy2018/TableUtil.java&#10;Myu&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/util/MyTextUtil.java&#10;PageU&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/PageUtil.java&#10;Linkda&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java&#10;Link&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java&#10;Home&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/crawler/page/HomePage.java&#10;Lind&#9;FILE&#9;file:///Users/wangyuelin/Documents/app/电影爬取/server/movie_crawler/src/main/java/com/wangyuelin/app/dao/LinkDao.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -728,7 +737,7 @@
       <workItem from="1529994980599" duration="14123000" />
       <workItem from="1530011561973" duration="1379000" />
       <workItem from="1530014420941" duration="4519000" />
-      <workItem from="1530099582341" duration="7410000" />
+      <workItem from="1530099582341" duration="7875000" />
     </task>
     <servers />
   </component>
@@ -765,11 +774,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="377488000" />
+    <option name="totallyTimeSpent" value="377953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -789,10 +797,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.3294702" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3294702" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21192053" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.65562916" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3294702" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.25496688" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24798061" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24798061" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32615894" />
@@ -1283,18 +1291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/DoubanSeacherTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
-          <caret line="25" column="90" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#885#886#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -1330,32 +1326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/movie/MovieConstantInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task/BDMovieTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1656">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/dylol/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
@@ -1366,37 +1336,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanMediaChoosePage.java">
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        <state relative-caret-position="134">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/IdataUtil.java">
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/DoubanSeacherTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="-547">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/idata/QueueCheckTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/BDMoviePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="62" column="43" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="43" />
+        <state relative-caret-position="253">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1405,8 +1370,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/task/TaskUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        <state relative-caret-position="268">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/douban/DoubanMediaChoosePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/BDMoviePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/movie/MovieConstantInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/crawler/baidu/task/BDMovieTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="114" column="5" lean-forward="true" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_crawler/src/main/java/com/wangyuelin/app/util/MyThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
